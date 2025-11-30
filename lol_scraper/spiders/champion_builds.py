@@ -25,7 +25,6 @@ class ChampionBuildsSpider(Spider):
         self.processed_slugs = set()
     
     def parse(self, response):
-        """Extract champion links from u.gg"""
         slugs = self._get_slugs_from_ugg(response.url)
         self.logger.info(f'Found {len(slugs)} champion slugs from u.gg')
         
@@ -36,7 +35,6 @@ class ChampionBuildsSpider(Spider):
                 yield Request(pb_url, callback=self.parse_probuild, meta={'slug': slug})
     
     def _get_slugs_from_ugg(self, url):
-        """Use Selenium to extract champion links from u.gg"""
         opts = Options()
         opts.add_argument('--headless=new')
         opts.add_argument('--no-sandbox')
@@ -50,11 +48,10 @@ class ChampionBuildsSpider(Spider):
             driver.get(url)
             time.sleep(2)
             
-            # Scroll to load all champions
             self.logger.info('Scrolling to load all champions...')
             last_height = driver.execute_script("return document.body.scrollHeight")
             
-            for _ in range(20):  # Max 20 scrolls
+            for _ in range(20): 
                 driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
                 time.sleep(0.3)
                 new_height = driver.execute_script("return document.body.scrollHeight")
@@ -62,7 +59,6 @@ class ChampionBuildsSpider(Spider):
                     break
                 last_height = new_height
             
-            # Extract all champion links specifically
             hrefs = driver.execute_script("""
                 const links = new Set();
                 document.querySelectorAll('a[href*="/champions/"]').forEach(a => {
@@ -92,7 +88,6 @@ class ChampionBuildsSpider(Spider):
             driver.quit()
     
     def parse_probuild(self, response):
-        """Extract popular items from probuildstats page"""
         slug = response.meta.get('slug')
         item_data = self._get_items_from_probuild(response.url, slug)
         
@@ -103,7 +98,6 @@ class ChampionBuildsSpider(Spider):
             }
     
     def _get_items_from_probuild(self, url, champion_name):
-        """Use Selenium to extract popular items from probuildstats"""
         opts = Options()
         opts.add_argument('--headless=new')
         opts.add_argument('--no-sandbox')
@@ -119,7 +113,6 @@ class ChampionBuildsSpider(Spider):
             driver.get(url)
             time.sleep(1.5)
             
-            # Wait for items
             try:
                 WebDriverWait(driver, 8).until(
                     EC.presence_of_element_located((By.CSS_SELECTOR, "img[src*='/item/']"))
@@ -127,22 +120,18 @@ class ChampionBuildsSpider(Spider):
             except Exception:
                 time.sleep(1)
             
-            # Extract with better JavaScript logic
             items_dict = driver.execute_script("""
                 const items = {};
                 
-                // Look specifically for "Popular Items" section
                 const allText = document.body.innerText;
                 if (!allText.includes('Popular Items')) {
                     return {};
                 }
                 
-                // Find images that are in the Popular Items section
                 const imgs = document.querySelectorAll("img[src*='/item/']");
                 
                 imgs.forEach(img => {
                     try {
-                        // Get item name
                         let name = img.getAttribute('alt') || img.getAttribute('title') || '';
                         
                         if (!name || name.length < 2) {
@@ -154,7 +143,6 @@ class ChampionBuildsSpider(Spider):
                         
                         if (name.length < 2) return;
                         
-                        // Find percentage in closest parent with text
                         let pct = null;
                         let el = img;
                         for (let i = 0; i < 15 && el && !pct; i++) {
@@ -167,7 +155,6 @@ class ChampionBuildsSpider(Spider):
                             el = el.parentElement;
                         }
                         
-                        // Only keep items with a percentage
                         if (name && pct && pct > 0 && pct <= 100) {
                             if (!items[name] || pct > items[name]) {
                                 items[name] = pct;
@@ -184,7 +171,6 @@ class ChampionBuildsSpider(Spider):
             if not items_dict:
                 self.logger.warning(f'No items found for {champion_name} - might need manual check')
             
-            # Sort and return top 6
             sorted_items = sorted(items_dict.items(), key=lambda x: x[1], reverse=True)
             return [{'item': name, 'percentage': pct} for name, pct in sorted_items[:6]]
         

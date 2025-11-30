@@ -3,7 +3,6 @@ import os
 
 
 class CollectPipeline:
-    """Pipeline to collect all champion builds into single JSON file"""
     
     def __init__(self):
         self.data = {}
