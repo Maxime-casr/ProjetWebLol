@@ -26,7 +26,7 @@ class ChampionBuildsSpider(Spider):
     
     def parse(self, response):
         slugs = self._get_slugs_from_ugg(response.url)
-        self.logger.info(f'Found {len(slugs)} champion slugs from u.gg')
+        self.logger.info(f'Trouvé {len(slugs)} slugs de champions')
         
         for slug in sorted(slugs):
             if slug not in self.processed_slugs:
@@ -44,11 +44,11 @@ class ChampionBuildsSpider(Spider):
         driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=opts)
         
         try:
-            self.logger.info(f'Selenium loading {url}')
+            self.logger.info(f'Selenium chargement {url}')
             driver.get(url)
             time.sleep(2)
             
-            self.logger.info('Scrolling to load all champions...')
+            self.logger.info('Défilement pour charger tous les champions')
             last_height = driver.execute_script("return document.body.scrollHeight")
             
             for _ in range(20): 
@@ -70,7 +70,7 @@ class ChampionBuildsSpider(Spider):
                 return Array.from(links);
             """)
             
-            self.logger.info(f'Found {len(hrefs)} champion links')
+            self.logger.info(f'Trouvé {len(hrefs)} liens de champions')
             
             slugs = set()
             for href in hrefs:
@@ -79,10 +79,10 @@ class ChampionBuildsSpider(Spider):
                     slug = m.group(1).lower()
                     slugs.add(slug)
             
-            self.logger.info(f'Extracted {len(slugs)} unique champion slugs')
+            self.logger.info(f'{len(slugs)}')
             return slugs
         except Exception as e:
-            self.logger.error(f'Error extracting slugs from u.gg: {e}')
+            self.logger.error(f'Erreur: {e}')
             return set()
         finally:
             driver.quit()
@@ -169,13 +169,13 @@ class ChampionBuildsSpider(Spider):
             self.logger.info(f'Found {len(items_dict)} items with percentages for {champion_name}')
             
             if not items_dict:
-                self.logger.warning(f'No items found for {champion_name} - might need manual check')
+                self.logger.warning(f'Pas ditems trouver pour{champion_name}')
             
             sorted_items = sorted(items_dict.items(), key=lambda x: x[1], reverse=True)
             return [{'item': name, 'percentage': pct} for name, pct in sorted_items[:6]]
         
         except Exception as e:
-            self.logger.error(f'Error getting items for {champion_name}: {e}')
+            self.logger.error(f'Erreur{champion_name}: {e}')
             return []
         finally:
             driver.quit()
