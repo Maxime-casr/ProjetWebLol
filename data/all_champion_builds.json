@@ -1,0 +1,4932 @@
+{
+  "aatrox": {
+    "champion": "aatrox",
+    "popular_items": [
+      {
+        "item": "Sundered Sky",
+        "percentage": 86
+      },
+      {
+        "item": "Spear of Shojin",
+        "percentage": 57
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 49
+      },
+      {
+        "item": "Axiom Arc",
+        "percentage": 49
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 49
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 49
+      }
+    ]
+  },
+  "zyra": {
+    "champion": "zyra",
+    "popular_items": [
+      {
+        "item": "Liandry's Torment",
+        "percentage": 94
+      },
+      {
+        "item": "Sorcerer's Shoes",
+        "percentage": 65
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 59
+      },
+      {
+        "item": "Blackfire Torch",
+        "percentage": 59
+      },
+      {
+        "item": "Boots",
+        "percentage": 59
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 59
+      }
+    ]
+  },
+  "zoe": {
+    "champion": "zoe",
+    "popular_items": [
+      {
+        "item": "Luden's Companion",
+        "percentage": 76
+      },
+      {
+        "item": "Horizon Focus",
+        "percentage": 59
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 57
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 57
+      },
+      {
+        "item": "Banshee's Veil",
+        "percentage": 57
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 57
+      }
+    ]
+  },
+  "zilean": {
+    "champion": "zilean",
+    "popular_items": [
+      {
+        "item": "Ionian Boots of Lucidity",
+        "percentage": 82
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 60
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 60
+      },
+      {
+        "item": "Archangel's Staff",
+        "percentage": 60
+      },
+      {
+        "item": "Bandleglass Mirror",
+        "percentage": 60
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 60
+      }
+    ]
+  },
+  "ziggs": {
+    "champion": "ziggs",
+    "popular_items": [
+      {
+        "item": "Sorcerer's Shoes",
+        "percentage": 90
+      },
+      {
+        "item": "Luden's Companion",
+        "percentage": 80
+      },
+      {
+        "item": "Horizon Focus",
+        "percentage": 61
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 52
+      },
+      {
+        "item": "Blackfire Torch",
+        "percentage": 52
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 52
+      }
+    ]
+  },
+  "zeri": {
+    "champion": "zeri",
+    "popular_items": [
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 80
+      },
+      {
+        "item": "Runaan's Hurricane",
+        "percentage": 79
+      },
+      {
+        "item": "Yun Tal Wildarrows",
+        "percentage": 61
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 58
+      },
+      {
+        "item": "Bloodthirster",
+        "percentage": 58
+      },
+      {
+        "item": "Boots",
+        "percentage": 58
+      }
+    ]
+  },
+  "zed": {
+    "champion": "zed",
+    "popular_items": [
+      {
+        "item": "Axiom Arc",
+        "percentage": 62
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 62
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 62
+      },
+      {
+        "item": "Caulfield's Warhammer",
+        "percentage": 62
+      },
+      {
+        "item": "Chempunk Chainsword",
+        "percentage": 62
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 62
+      }
+    ]
+  },
+  "zac": {
+    "champion": "zac",
+    "popular_items": [
+      {
+        "item": "Sunfire Aegis",
+        "percentage": 68
+      },
+      {
+        "item": "Hextech Rocketbelt",
+        "percentage": 64
+      },
+      {
+        "item": "Spirit Visage",
+        "percentage": 54
+      },
+      {
+        "item": "Aegis of the Legion",
+        "percentage": 53
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 53
+      },
+      {
+        "item": "Bami's Cinder",
+        "percentage": 53
+      }
+    ]
+  },
+  "zaahen": {
+    "champion": "zaahen",
+    "popular_items": [
+      {
+        "item": "Sundered Sky",
+        "percentage": 67
+      },
+      {
+        "item": "Stridebreaker",
+        "percentage": 52
+      },
+      {
+        "item": "Trinity Force",
+        "percentage": 45
+      },
+      {
+        "item": "Plated Steelcaps",
+        "percentage": 43
+      },
+      {
+        "item": "Mercury's Treads",
+        "percentage": 39
+      },
+      {
+        "item": "Death's Dance",
+        "percentage": 21
+      }
+    ]
+  },
+  "yuumi": {
+    "champion": "yuumi",
+    "popular_items": [
+      {
+        "item": "Moonstone Renewer",
+        "percentage": 71
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 56
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 56
+      },
+      {
+        "item": "Bandleglass Mirror",
+        "percentage": 56
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 56
+      },
+      {
+        "item": "Dark Seal",
+        "percentage": 56
+      }
+    ]
+  },
+  "yunara": {
+    "champion": "yunara",
+    "popular_items": [
+      {
+        "item": "Kraken Slayer",
+        "percentage": 84
+      },
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 67
+      },
+      {
+        "item": "Phantom Dancer",
+        "percentage": 53
+      },
+      {
+        "item": "Infinity Edge",
+        "percentage": 52
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 48
+      },
+      {
+        "item": "Boots",
+        "percentage": 48
+      }
+    ]
+  },
+  "yorick": {
+    "champion": "yorick",
+    "popular_items": [
+      {
+        "item": "Trinity Force",
+        "percentage": 95
+      },
+      {
+        "item": "Spear of Shojin",
+        "percentage": 65
+      },
+      {
+        "item": "Plated Steelcaps",
+        "percentage": 58
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 50
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 50
+      },
+      {
+        "item": "Boots",
+        "percentage": 50
+      }
+    ]
+  },
+  "yone": {
+    "champion": "yone",
+    "popular_items": [
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 96
+      },
+      {
+        "item": "Blade of The Ruined King",
+        "percentage": 94
+      },
+      {
+        "item": "Immortal Shieldbow",
+        "percentage": 71
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 58
+      },
+      {
+        "item": "Cloak of Agility",
+        "percentage": 58
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 58
+      }
+    ]
+  },
+  "yasuo": {
+    "champion": "yasuo",
+    "popular_items": [
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 99
+      },
+      {
+        "item": "Immortal Shieldbow",
+        "percentage": 85
+      },
+      {
+        "item": "Blade of The Ruined King",
+        "percentage": 64
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 56
+      },
+      {
+        "item": "Cloak of Agility",
+        "percentage": 56
+      },
+      {
+        "item": "Cloth Armor",
+        "percentage": 56
+      }
+    ]
+  },
+  "xinzhao": {
+    "champion": "xinzhao",
+    "popular_items": [
+      {
+        "item": "Sundered Sky",
+        "percentage": 95
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 73
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 62
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 62
+      },
+      {
+        "item": "Caulfield's Warhammer",
+        "percentage": 62
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 62
+      }
+    ]
+  },
+  "xerath": {
+    "champion": "xerath",
+    "popular_items": [
+      {
+        "item": "Sorcerer's Shoes",
+        "percentage": 90
+      },
+      {
+        "item": "Luden's Companion",
+        "percentage": 76
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 58
+      },
+      {
+        "item": "Banshee's Veil",
+        "percentage": 58
+      },
+      {
+        "item": "Blackfire Torch",
+        "percentage": 58
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 58
+      }
+    ]
+  },
+  "xayah": {
+    "champion": "xayah",
+    "popular_items": [
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 96
+      },
+      {
+        "item": "Navori Flickerblade",
+        "percentage": 77
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 64
+      },
+      {
+        "item": "Bloodthirster",
+        "percentage": 64
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 64
+      },
+      {
+        "item": "Cloak of Agility",
+        "percentage": 64
+      }
+    ]
+  },
+  "wukong": {
+    "champion": "wukong",
+    "popular_items": [
+      {
+        "item": "Trinity Force",
+        "percentage": 93
+      },
+      {
+        "item": "Sundered Sky",
+        "percentage": 73
+      },
+      {
+        "item": "Mercury's Treads",
+        "percentage": 48
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 25
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 25
+      },
+      {
+        "item": "Caulfield's Warhammer",
+        "percentage": 25
+      }
+    ]
+  },
+  "warwick": {
+    "champion": "warwick",
+    "popular_items": [
+      {
+        "item": "Stridebreaker",
+        "percentage": 76
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 50
+      },
+      {
+        "item": "Blade of The Ruined King",
+        "percentage": 50
+      },
+      {
+        "item": "Boots",
+        "percentage": 50
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 50
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 50
+      }
+    ]
+  },
+  "volibear": {
+    "champion": "volibear",
+    "popular_items": [
+      {
+        "item": "Cosmic Drive",
+        "percentage": 60
+      },
+      {
+        "item": "Spirit Visage",
+        "percentage": 51
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 40
+      },
+      {
+        "item": "Bloodletter's Curse",
+        "percentage": 40
+      },
+      {
+        "item": "Boots",
+        "percentage": 40
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 40
+      }
+    ]
+  },
+  "vladimir": {
+    "champion": "vladimir",
+    "popular_items": [
+      {
+        "item": "Amplifying Tome",
+        "percentage": 54
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 54
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 54
+      },
+      {
+        "item": "Cosmic Drive",
+        "percentage": 54
+      },
+      {
+        "item": "Crimson Lucidity",
+        "percentage": 54
+      },
+      {
+        "item": "Cryptbloom",
+        "percentage": 54
+      }
+    ]
+  },
+  "viktor": {
+    "champion": "viktor",
+    "popular_items": [
+      {
+        "item": "Aether Wisp",
+        "percentage": 52
+      },
+      {
+        "item": "Blackfire Torch",
+        "percentage": 52
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 52
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 52
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 52
+      },
+      {
+        "item": "Cosmic Drive",
+        "percentage": 52
+      }
+    ]
+  },
+  "viego": {
+    "champion": "viego",
+    "popular_items": [
+      {
+        "item": "Kraken Slayer",
+        "percentage": 73
+      },
+      {
+        "item": "The Collector",
+        "percentage": 59
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 49
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 49
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 49
+      },
+      {
+        "item": "Cloth Armor",
+        "percentage": 49
+      }
+    ]
+  },
+  "vi": {
+    "champion": "vi",
+    "popular_items": [
+      {
+        "item": "Sundered Sky",
+        "percentage": 81
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 55
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 54
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 54
+      },
+      {
+        "item": "Boots",
+        "percentage": 54
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 54
+      }
+    ]
+  },
+  "vex": {
+    "champion": "vex",
+    "popular_items": [
+      {
+        "item": "Sorcerer's Shoes",
+        "percentage": 78
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 54
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 54
+      },
+      {
+        "item": "Blackfire Torch",
+        "percentage": 54
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 54
+      },
+      {
+        "item": "Cosmic Drive",
+        "percentage": 54
+      }
+    ]
+  },
+  "velkoz": {
+    "champion": "velkoz",
+    "popular_items": [
+      {
+        "item": "Horizon Focus",
+        "percentage": 65
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 56
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 56
+      },
+      {
+        "item": "Banshee's Veil",
+        "percentage": 56
+      },
+      {
+        "item": "Blackfire Torch",
+        "percentage": 56
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 56
+      }
+    ]
+  },
+  "veigar": {
+    "champion": "veigar",
+    "popular_items": [
+      {
+        "item": "Rod of Ages",
+        "percentage": 63
+      },
+      {
+        "item": "Abyssal Mask",
+        "percentage": 60
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 60
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 60
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 60
+      },
+      {
+        "item": "Boots",
+        "percentage": 60
+      }
+    ]
+  },
+  "vayne": {
+    "champion": "vayne",
+    "popular_items": [
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 84
+      },
+      {
+        "item": "Guinsoo's Rageblade",
+        "percentage": 65
+      },
+      {
+        "item": "Trinity Force",
+        "percentage": 48
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 44
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 44
+      },
+      {
+        "item": "Blade of The Ruined King",
+        "percentage": 44
+      }
+    ]
+  },
+  "varus": {
+    "champion": "varus",
+    "popular_items": [
+      {
+        "item": "Youmuu's Ghostblade",
+        "percentage": 57
+      },
+      {
+        "item": "Manamune",
+        "percentage": 45
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 40
+      },
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 40
+      },
+      {
+        "item": "Blade of The Ruined King",
+        "percentage": 40
+      },
+      {
+        "item": "Boots",
+        "percentage": 40
+      }
+    ]
+  },
+  "urgot": {
+    "champion": "urgot",
+    "popular_items": [
+      {
+        "item": "Black Cleaver",
+        "percentage": 84
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 65
+      },
+      {
+        "item": "Bramble Vest",
+        "percentage": 65
+      },
+      {
+        "item": "Chain Vest",
+        "percentage": 65
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 65
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 65
+      }
+    ]
+  },
+  "udyr": {
+    "champion": "udyr",
+    "popular_items": [
+      {
+        "item": "Liandry's Torment",
+        "percentage": 57
+      },
+      {
+        "item": "Abyssal Mask",
+        "percentage": 47
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 47
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 47
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 47
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 47
+      }
+    ]
+  },
+  "twitch": {
+    "champion": "twitch",
+    "popular_items": [
+      {
+        "item": "Amplifying Tome",
+        "percentage": 60
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 60
+      },
+      {
+        "item": "Banshee's Veil",
+        "percentage": 60
+      },
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 60
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 60
+      },
+      {
+        "item": "Boots",
+        "percentage": 60
+      }
+    ]
+  },
+  "twistedfate": {
+    "champion": "twistedfate",
+    "popular_items": [
+      {
+        "item": "Rod of Ages",
+        "percentage": 82
+      },
+      {
+        "item": "Lich Bane",
+        "percentage": 73
+      },
+      {
+        "item": "Rapid Firecannon",
+        "percentage": 66
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 52
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 52
+      },
+      {
+        "item": "Banshee's Veil",
+        "percentage": 52
+      }
+    ]
+  },
+  "tryndamere": {
+    "champion": "tryndamere",
+    "popular_items": [
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 67
+      },
+      {
+        "item": "Ravenous Hydra",
+        "percentage": 63
+      },
+      {
+        "item": "Navori Flickerblade",
+        "percentage": 50
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 48
+      },
+      {
+        "item": "Boots",
+        "percentage": 48
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 48
+      }
+    ]
+  },
+  "trundle": {
+    "champion": "trundle",
+    "popular_items": [
+      {
+        "item": "Trinity Force",
+        "percentage": 75
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 51
+      },
+      {
+        "item": "Blade of The Ruined King",
+        "percentage": 51
+      },
+      {
+        "item": "Bramble Vest",
+        "percentage": 51
+      },
+      {
+        "item": "Chain Vest",
+        "percentage": 51
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 51
+      }
+    ]
+  },
+  "tristana": {
+    "champion": "tristana",
+    "popular_items": [
+      {
+        "item": "Yun Tal Wildarrows",
+        "percentage": 77
+      },
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 74
+      },
+      {
+        "item": "Infinity Edge",
+        "percentage": 71
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 65
+      },
+      {
+        "item": "Bloodthirster",
+        "percentage": 65
+      },
+      {
+        "item": "Cloak of Agility",
+        "percentage": 65
+      }
+    ]
+  },
+  "thresh": {
+    "champion": "thresh",
+    "popular_items": [
+      {
+        "item": "Redemption",
+        "percentage": 71
+      },
+      {
+        "item": "Locket of the Iron Solari",
+        "percentage": 69
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 59
+      },
+      {
+        "item": "Celestial Opposition",
+        "percentage": 59
+      },
+      {
+        "item": "Chain Vest",
+        "percentage": 59
+      },
+      {
+        "item": "Cloth Armor",
+        "percentage": 59
+      }
+    ]
+  },
+  "teemo": {
+    "champion": "teemo",
+    "popular_items": [
+      {
+        "item": "Liandry's Torment",
+        "percentage": 68
+      },
+      {
+        "item": "Malignance",
+        "percentage": 61
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 54
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 54
+      },
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 54
+      },
+      {
+        "item": "Blackfire Torch",
+        "percentage": 54
+      }
+    ]
+  },
+  "taric": {
+    "champion": "taric",
+    "popular_items": [
+      {
+        "item": "Locket of the Iron Solari",
+        "percentage": 66
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 56
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 56
+      },
+      {
+        "item": "Celestial Opposition",
+        "percentage": 56
+      },
+      {
+        "item": "Chain Vest",
+        "percentage": 56
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 56
+      }
+    ]
+  },
+  "talon": {
+    "champion": "talon",
+    "popular_items": [
+      {
+        "item": "Youmuu's Ghostblade",
+        "percentage": 91
+      },
+      {
+        "item": "Axiom Arc",
+        "percentage": 60
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 60
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 60
+      },
+      {
+        "item": "Boots",
+        "percentage": 60
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 60
+      }
+    ]
+  },
+  "taliyah": {
+    "champion": "taliyah",
+    "popular_items": [
+      {
+        "item": "Archangel's Staff",
+        "percentage": 81
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 56
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 56
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 56
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 56
+      },
+      {
+        "item": "Crimson Lucidity",
+        "percentage": 56
+      }
+    ]
+  },
+  "tahmkench": {
+    "champion": "tahmkench",
+    "popular_items": [
+      {
+        "item": "Aegis of the Legion",
+        "percentage": 56
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 56
+      },
+      {
+        "item": "Athene's Unholy Grail",
+        "percentage": 56
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 56
+      },
+      {
+        "item": "Boots",
+        "percentage": 56
+      },
+      {
+        "item": "Celestial Opposition",
+        "percentage": 56
+      }
+    ]
+  },
+  "syndra": {
+    "champion": "syndra",
+    "popular_items": [
+      {
+        "item": "Blackfire Torch",
+        "percentage": 83
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 67
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 67
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 67
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 67
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 67
+      }
+    ]
+  },
+  "sylas": {
+    "champion": "sylas",
+    "popular_items": [
+      {
+        "item": "Hextech Rocketbelt",
+        "percentage": 98
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 73
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 73
+      },
+      {
+        "item": "Cloth Armor",
+        "percentage": 73
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 73
+      },
+      {
+        "item": "Cosmic Drive",
+        "percentage": 73
+      }
+    ]
+  },
+  "swain": {
+    "champion": "swain",
+    "popular_items": [
+      {
+        "item": "Amplifying Tome",
+        "percentage": 53
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 53
+      },
+      {
+        "item": "Blackfire Torch",
+        "percentage": 53
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 53
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 53
+      },
+      {
+        "item": "Bloodletter's Curse",
+        "percentage": 53
+      }
+    ]
+  },
+  "soraka": {
+    "champion": "soraka",
+    "popular_items": [
+      {
+        "item": "Moonstone Renewer",
+        "percentage": 83
+      },
+      {
+        "item": "Ionian Boots of Lucidity",
+        "percentage": 60
+      },
+      {
+        "item": "Redemption",
+        "percentage": 59
+      },
+      {
+        "item": "Bandleglass Mirror",
+        "percentage": 51
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 51
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 51
+      }
+    ]
+  },
+  "sona": {
+    "champion": "sona",
+    "popular_items": [
+      {
+        "item": "Echoes of Helia",
+        "percentage": 88
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 61
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 51
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 51
+      },
+      {
+        "item": "Bandleglass Mirror",
+        "percentage": 51
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 51
+      }
+    ]
+  },
+  "skarner": {
+    "champion": "skarner",
+    "popular_items": [
+      {
+        "item": "Heartsteel",
+        "percentage": 88
+      },
+      {
+        "item": "Unending Despair",
+        "percentage": 63
+      },
+      {
+        "item": "Aegis of the Legion",
+        "percentage": 48
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 48
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 48
+      },
+      {
+        "item": "Bramble Vest",
+        "percentage": 48
+      }
+    ]
+  },
+  "sivir": {
+    "champion": "sivir",
+    "popular_items": [
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 86
+      },
+      {
+        "item": "Infinity Edge",
+        "percentage": 68
+      },
+      {
+        "item": "Navori Flickerblade",
+        "percentage": 62
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 57
+      },
+      {
+        "item": "Bloodthirster",
+        "percentage": 57
+      },
+      {
+        "item": "Cloak of Agility",
+        "percentage": 57
+      }
+    ]
+  },
+  "sion": {
+    "champion": "sion",
+    "popular_items": [
+      {
+        "item": "Aegis of the Legion",
+        "percentage": 52
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 52
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 52
+      },
+      {
+        "item": "Bramble Vest",
+        "percentage": 52
+      },
+      {
+        "item": "Chain Vest",
+        "percentage": 52
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 52
+      }
+    ]
+  },
+  "singed": {
+    "champion": "singed",
+    "popular_items": [
+      {
+        "item": "Rylai's Crystal Scepter",
+        "percentage": 80
+      },
+      {
+        "item": "Liandry's Torment",
+        "percentage": 64
+      },
+      {
+        "item": "Abyssal Mask",
+        "percentage": 63
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 63
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 63
+      },
+      {
+        "item": "Bloodletter's Curse",
+        "percentage": 63
+      }
+    ]
+  },
+  "shyvana": {
+    "champion": "shyvana",
+    "popular_items": [
+      {
+        "item": "Spear of Shojin",
+        "percentage": 87
+      },
+      {
+        "item": "Liandry's Torment",
+        "percentage": 53
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 52
+      },
+      {
+        "item": "Blade of The Ruined King",
+        "percentage": 52
+      },
+      {
+        "item": "Boots",
+        "percentage": 52
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 52
+      }
+    ]
+  },
+  "shen": {
+    "champion": "shen",
+    "popular_items": [
+      {
+        "item": "Titanic Hydra",
+        "percentage": 75
+      },
+      {
+        "item": "Aegis of the Legion",
+        "percentage": 68
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 68
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 68
+      },
+      {
+        "item": "Boots",
+        "percentage": 68
+      },
+      {
+        "item": "Bramble Vest",
+        "percentage": 68
+      }
+    ]
+  },
+  "shaco": {
+    "champion": "shaco",
+    "popular_items": [
+      {
+        "item": "Amplifying Tome",
+        "percentage": 60
+      },
+      {
+        "item": "Blackfire Torch",
+        "percentage": 60
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 60
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 60
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 60
+      },
+      {
+        "item": "Crimson Lucidity",
+        "percentage": 60
+      }
+    ]
+  },
+  "sett": {
+    "champion": "sett",
+    "popular_items": [
+      {
+        "item": "Stridebreaker",
+        "percentage": 83
+      },
+      {
+        "item": "Overlord's Bloodmail",
+        "percentage": 52
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 50
+      },
+      {
+        "item": "Blade of The Ruined King",
+        "percentage": 50
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 50
+      },
+      {
+        "item": "Boots",
+        "percentage": 50
+      }
+    ]
+  },
+  "seraphine": {
+    "champion": "seraphine",
+    "popular_items": [
+      {
+        "item": "Ionian Boots of Lucidity",
+        "percentage": 87
+      },
+      {
+        "item": "Redemption",
+        "percentage": 78
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 60
+      },
+      {
+        "item": "Blackfire Torch",
+        "percentage": 60
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 60
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 60
+      }
+    ]
+  },
+  "senna": {
+    "champion": "senna",
+    "popular_items": [
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 96
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 60
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 53
+      },
+      {
+        "item": "Chempunk Chainsword",
+        "percentage": 53
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 53
+      },
+      {
+        "item": "Dagger",
+        "percentage": 53
+      }
+    ]
+  },
+  "sejuani": {
+    "champion": "sejuani",
+    "popular_items": [
+      {
+        "item": "Heartsteel",
+        "percentage": 58
+      },
+      {
+        "item": "Abyssal Mask",
+        "percentage": 55
+      },
+      {
+        "item": "Aegis of the Legion",
+        "percentage": 55
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 55
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 55
+      },
+      {
+        "item": "Boots",
+        "percentage": 55
+      }
+    ]
+  },
+  "samira": {
+    "champion": "samira",
+    "popular_items": [
+      {
+        "item": "The Collector",
+        "percentage": 95
+      },
+      {
+        "item": "Infinity Edge",
+        "percentage": 71
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 55
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 55
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 55
+      },
+      {
+        "item": "Bloodthirster",
+        "percentage": 55
+      }
+    ]
+  },
+  "ryze": {
+    "champion": "ryze",
+    "popular_items": [
+      {
+        "item": "Rod of Ages",
+        "percentage": 98
+      },
+      {
+        "item": "Archangel's Staff",
+        "percentage": 90
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 50
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 50
+      },
+      {
+        "item": "Boots",
+        "percentage": 50
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 50
+      }
+    ]
+  },
+  "rumble": {
+    "champion": "rumble",
+    "popular_items": [
+      {
+        "item": "Liandry's Torment",
+        "percentage": 88
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 65
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 65
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 65
+      },
+      {
+        "item": "Bloodletter's Curse",
+        "percentage": 65
+      },
+      {
+        "item": "Boots",
+        "percentage": 65
+      }
+    ]
+  },
+  "riven": {
+    "champion": "riven",
+    "popular_items": [
+      {
+        "item": "Armored Advance",
+        "percentage": 71
+      },
+      {
+        "item": "Axiom Arc",
+        "percentage": 71
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 71
+      },
+      {
+        "item": "Boots",
+        "percentage": 71
+      },
+      {
+        "item": "Caulfield's Warhammer",
+        "percentage": 71
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 71
+      }
+    ]
+  },
+  "rengar": {
+    "champion": "rengar",
+    "popular_items": [
+      {
+        "item": "Profane Hydra",
+        "percentage": 59
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 56
+      },
+      {
+        "item": "Boots",
+        "percentage": 56
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 56
+      },
+      {
+        "item": "Cloak of Agility",
+        "percentage": 56
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 56
+      }
+    ]
+  },
+  "renekton": {
+    "champion": "renekton",
+    "popular_items": [
+      {
+        "item": "Plated Steelcaps",
+        "percentage": 64
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 62
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 62
+      },
+      {
+        "item": "Boots",
+        "percentage": 62
+      },
+      {
+        "item": "Caulfield's Warhammer",
+        "percentage": 62
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 62
+      }
+    ]
+  },
+  "renata": {
+    "champion": "renata",
+    "popular_items": [
+      {
+        "item": "Ionian Boots of Lucidity",
+        "percentage": 95
+      },
+      {
+        "item": "Redemption",
+        "percentage": 90
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 57
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 57
+      },
+      {
+        "item": "Bandleglass Mirror",
+        "percentage": 57
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 57
+      }
+    ]
+  },
+  "rell": {
+    "champion": "rell",
+    "popular_items": [
+      {
+        "item": "Redemption",
+        "percentage": 71
+      },
+      {
+        "item": "Locket of the Iron Solari",
+        "percentage": 61
+      },
+      {
+        "item": "Abyssal Mask",
+        "percentage": 51
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 51
+      },
+      {
+        "item": "Boots",
+        "percentage": 51
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 51
+      }
+    ]
+  },
+  "reksai": {
+    "champion": "reksai",
+    "popular_items": [
+      {
+        "item": "Titanic Hydra",
+        "percentage": 89
+      },
+      {
+        "item": "Spear of Shojin",
+        "percentage": 56
+      },
+      {
+        "item": "Plated Steelcaps",
+        "percentage": 50
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 40
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 40
+      },
+      {
+        "item": "Boots",
+        "percentage": 40
+      }
+    ]
+  },
+  "rammus": {
+    "champion": "rammus",
+    "popular_items": [
+      {
+        "item": "Thornmail",
+        "percentage": 94
+      },
+      {
+        "item": "Aegis of the Legion",
+        "percentage": 53
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 53
+      },
+      {
+        "item": "Bami's Cinder",
+        "percentage": 53
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 53
+      },
+      {
+        "item": "Boots",
+        "percentage": 53
+      }
+    ]
+  },
+  "rakan": {
+    "champion": "rakan",
+    "popular_items": [
+      {
+        "item": "Redemption",
+        "percentage": 91
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 50
+      },
+      {
+        "item": "Celestial Opposition",
+        "percentage": 50
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 50
+      },
+      {
+        "item": "Cloth Armor",
+        "percentage": 50
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 50
+      }
+    ]
+  },
+  "quinn": {
+    "champion": "quinn",
+    "popular_items": [
+      {
+        "item": "Symbiotic Soles",
+        "percentage": 93
+      },
+      {
+        "item": "Edge of Night",
+        "percentage": 71
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 70
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 70
+      },
+      {
+        "item": "Chempunk Chainsword",
+        "percentage": 70
+      },
+      {
+        "item": "Cloak of Agility",
+        "percentage": 70
+      }
+    ]
+  },
+  "qiyana": {
+    "champion": "qiyana",
+    "popular_items": [
+      {
+        "item": "Profane Hydra",
+        "percentage": 97
+      },
+      {
+        "item": "Axiom Arc",
+        "percentage": 75
+      },
+      {
+        "item": "Ionian Boots of Lucidity",
+        "percentage": 57
+      },
+      {
+        "item": "Serylda's Grudge",
+        "percentage": 57
+      },
+      {
+        "item": "Boots",
+        "percentage": 55
+      },
+      {
+        "item": "Caulfield's Warhammer",
+        "percentage": 55
+      }
+    ]
+  },
+  "pyke": {
+    "champion": "pyke",
+    "popular_items": [
+      {
+        "item": "Umbral Glaive",
+        "percentage": 91
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 60
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 60
+      },
+      {
+        "item": "Celestial Opposition",
+        "percentage": 60
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 60
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 60
+      }
+    ]
+  },
+  "poppy": {
+    "champion": "poppy",
+    "popular_items": [
+      {
+        "item": "Redemption",
+        "percentage": 60
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 53
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 53
+      },
+      {
+        "item": "Boots",
+        "percentage": 53
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 53
+      },
+      {
+        "item": "Bramble Vest",
+        "percentage": 53
+      }
+    ]
+  },
+  "pantheon": {
+    "champion": "pantheon",
+    "popular_items": [
+      {
+        "item": "Sundered Sky",
+        "percentage": 84
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 63
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 59
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 59
+      },
+      {
+        "item": "Boots",
+        "percentage": 59
+      },
+      {
+        "item": "Caulfield's Warhammer",
+        "percentage": 59
+      }
+    ]
+  },
+  "ornn": {
+    "champion": "ornn",
+    "popular_items": [
+      {
+        "item": "Abyssal Mask",
+        "percentage": 54
+      },
+      {
+        "item": "Aegis of the Legion",
+        "percentage": 54
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 54
+      },
+      {
+        "item": "Boots",
+        "percentage": 54
+      },
+      {
+        "item": "Bramble Vest",
+        "percentage": 54
+      },
+      {
+        "item": "Celestial Opposition",
+        "percentage": 54
+      }
+    ]
+  },
+  "orianna": {
+    "champion": "orianna",
+    "popular_items": [
+      {
+        "item": "Amplifying Tome",
+        "percentage": 58
+      },
+      {
+        "item": "Archangel's Staff",
+        "percentage": 58
+      },
+      {
+        "item": "Blackfire Torch",
+        "percentage": 58
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 58
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 58
+      },
+      {
+        "item": "Cosmic Drive",
+        "percentage": 58
+      }
+    ]
+  },
+  "olaf": {
+    "champion": "olaf",
+    "popular_items": [
+      {
+        "item": "Plated Steelcaps",
+        "percentage": 61
+      },
+      {
+        "item": "Stridebreaker",
+        "percentage": 60
+      },
+      {
+        "item": "Death's Dance",
+        "percentage": 51
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 39
+      },
+      {
+        "item": "Boots",
+        "percentage": 39
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 39
+      }
+    ]
+  },
+  "nunu": {
+    "champion": "nunu",
+    "popular_items": [
+      {
+        "item": "Liandry's Torment",
+        "percentage": 69
+      },
+      {
+        "item": "Abyssal Mask",
+        "percentage": 40
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 40
+      },
+      {
+        "item": "Bami's Cinder",
+        "percentage": 40
+      },
+      {
+        "item": "Bloodletter's Curse",
+        "percentage": 40
+      },
+      {
+        "item": "Boots",
+        "percentage": 40
+      }
+    ]
+  },
+  "nocturne": {
+    "champion": "nocturne",
+    "popular_items": [
+      {
+        "item": "Experimental Hexplate",
+        "percentage": 61
+      },
+      {
+        "item": "Stridebreaker",
+        "percentage": 56
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 47
+      },
+      {
+        "item": "Axiom Arc",
+        "percentage": 47
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 47
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 47
+      }
+    ]
+  },
+  "nilah": {
+    "champion": "nilah",
+    "popular_items": [
+      {
+        "item": "The Collector",
+        "percentage": 82
+      },
+      {
+        "item": "Infinity Edge",
+        "percentage": 66
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 60
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 60
+      },
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 60
+      },
+      {
+        "item": "Blade of The Ruined King",
+        "percentage": 60
+      }
+    ]
+  },
+  "nidalee": {
+    "champion": "nidalee",
+    "popular_items": [
+      {
+        "item": "Sorcerer's Shoes",
+        "percentage": 54
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 53
+      },
+      {
+        "item": "Banshee's Veil",
+        "percentage": 53
+      },
+      {
+        "item": "Blackfire Torch",
+        "percentage": 53
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 53
+      },
+      {
+        "item": "Boots",
+        "percentage": 53
+      }
+    ]
+  },
+  "neeko": {
+    "champion": "neeko",
+    "popular_items": [
+      {
+        "item": "Hextech Rocketbelt",
+        "percentage": 95
+      },
+      {
+        "item": "Ionian Boots of Lucidity",
+        "percentage": 81
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 71
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 71
+      },
+      {
+        "item": "Bramble Vest",
+        "percentage": 71
+      },
+      {
+        "item": "Celestial Opposition",
+        "percentage": 71
+      }
+    ]
+  },
+  "nautilus": {
+    "champion": "nautilus",
+    "popular_items": [
+      {
+        "item": "Redemption",
+        "percentage": 63
+      },
+      {
+        "item": "Locket of the Iron Solari",
+        "percentage": 62
+      },
+      {
+        "item": "Abyssal Mask",
+        "percentage": 59
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 59
+      },
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 59
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 59
+      }
+    ]
+  },
+  "nasus": {
+    "champion": "nasus",
+    "popular_items": [
+      {
+        "item": "Trinity Force",
+        "percentage": 74
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 64
+      },
+      {
+        "item": "Caulfield's Warhammer",
+        "percentage": 64
+      },
+      {
+        "item": "Chain Vest",
+        "percentage": 64
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 64
+      },
+      {
+        "item": "Cloth Armor",
+        "percentage": 64
+      }
+    ]
+  },
+  "nami": {
+    "champion": "nami",
+    "popular_items": [
+      {
+        "item": "Imperial Mandate",
+        "percentage": 97
+      },
+      {
+        "item": "Ionian Boots of Lucidity",
+        "percentage": 83
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 40
+      },
+      {
+        "item": "Ardent Censer",
+        "percentage": 40
+      },
+      {
+        "item": "Bandleglass Mirror",
+        "percentage": 40
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 40
+      }
+    ]
+  },
+  "naafiri": {
+    "champion": "naafiri",
+    "popular_items": [
+      {
+        "item": "Spear of Shojin",
+        "percentage": 67
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 45
+      },
+      {
+        "item": "Axiom Arc",
+        "percentage": 43
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 43
+      },
+      {
+        "item": "Boots",
+        "percentage": 43
+      },
+      {
+        "item": "Caulfield's Warhammer",
+        "percentage": 43
+      }
+    ]
+  },
+  "morgana": {
+    "champion": "morgana",
+    "popular_items": [
+      {
+        "item": "Blackfire Torch",
+        "percentage": 61
+      },
+      {
+        "item": "Liandry's Torment",
+        "percentage": 51
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 46
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 46
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 46
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 46
+      }
+    ]
+  },
+  "mordekaiser": {
+    "champion": "mordekaiser",
+    "popular_items": [
+      {
+        "item": "Riftmaker",
+        "percentage": 72
+      },
+      {
+        "item": "Plated Steelcaps",
+        "percentage": 48
+      },
+      {
+        "item": "Rylai's Crystal Scepter",
+        "percentage": 42
+      },
+      {
+        "item": "Experimental Hexplate",
+        "percentage": 40
+      },
+      {
+        "item": "Mercury's Treads",
+        "percentage": 26
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 22
+      }
+    ]
+  },
+  "missfortune": {
+    "champion": "missfortune",
+    "popular_items": [
+      {
+        "item": "Bloodthirster",
+        "percentage": 65
+      },
+      {
+        "item": "The Collector",
+        "percentage": 51
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 48
+      },
+      {
+        "item": "Axiom Arc",
+        "percentage": 48
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 48
+      },
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 48
+      }
+    ]
+  },
+  "milio": {
+    "champion": "milio",
+    "popular_items": [
+      {
+        "item": "Echoes of Helia",
+        "percentage": 93
+      },
+      {
+        "item": "Ionian Boots of Lucidity",
+        "percentage": 90
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 54
+      },
+      {
+        "item": "Ardent Censer",
+        "percentage": 54
+      },
+      {
+        "item": "Bandleglass Mirror",
+        "percentage": 54
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 54
+      }
+    ]
+  },
+  "mel": {
+    "champion": "mel",
+    "popular_items": [
+      {
+        "item": "Blackfire Torch",
+        "percentage": 87
+      },
+      {
+        "item": "Ionian Boots of Lucidity",
+        "percentage": 61
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 53
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 53
+      },
+      {
+        "item": "Banshee's Veil",
+        "percentage": 53
+      },
+      {
+        "item": "Bloodletter's Curse",
+        "percentage": 53
+      }
+    ]
+  },
+  "masteryi": {
+    "champion": "masteryi",
+    "popular_items": [
+      {
+        "item": "Guinsoo's Rageblade",
+        "percentage": 74
+      },
+      {
+        "item": "Blade of The Ruined King",
+        "percentage": 70
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 51
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 51
+      },
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 51
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 51
+      }
+    ]
+  },
+  "maokai": {
+    "champion": "maokai",
+    "popular_items": [
+      {
+        "item": "Aegis of the Legion",
+        "percentage": 59
+      },
+      {
+        "item": "Bami's Cinder",
+        "percentage": 59
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 59
+      },
+      {
+        "item": "Boots",
+        "percentage": 59
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 59
+      },
+      {
+        "item": "Celestial Opposition",
+        "percentage": 59
+      }
+    ]
+  },
+  "malzahar": {
+    "champion": "malzahar",
+    "popular_items": [
+      {
+        "item": "Blackfire Torch",
+        "percentage": 80
+      },
+      {
+        "item": "Liandry's Torment",
+        "percentage": 65
+      },
+      {
+        "item": "Rylai's Crystal Scepter",
+        "percentage": 61
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 59
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 59
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 59
+      }
+    ]
+  },
+  "malphite": {
+    "champion": "malphite",
+    "popular_items": [
+      {
+        "item": "Abyssal Mask",
+        "percentage": 60
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 60
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 60
+      },
+      {
+        "item": "Boots",
+        "percentage": 60
+      },
+      {
+        "item": "Bramble Vest",
+        "percentage": 60
+      },
+      {
+        "item": "Chain Vest",
+        "percentage": 60
+      }
+    ]
+  },
+  "lux": {
+    "champion": "lux",
+    "popular_items": [
+      {
+        "item": "Sorcerer's Shoes",
+        "percentage": 58
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 55
+      },
+      {
+        "item": "Boots",
+        "percentage": 55
+      },
+      {
+        "item": "Celestial Opposition",
+        "percentage": 55
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 55
+      },
+      {
+        "item": "Dark Seal",
+        "percentage": 55
+      }
+    ]
+  },
+  "lulu": {
+    "champion": "lulu",
+    "popular_items": [
+      {
+        "item": "Ionian Boots of Lucidity",
+        "percentage": 80
+      },
+      {
+        "item": "Redemption",
+        "percentage": 71
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 63
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 63
+      },
+      {
+        "item": "Ardent Censer",
+        "percentage": 63
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 63
+      }
+    ]
+  },
+  "lucian": {
+    "champion": "lucian",
+    "popular_items": [
+      {
+        "item": "Essence Reaver",
+        "percentage": 99
+      },
+      {
+        "item": "Navori Flickerblade",
+        "percentage": 59
+      },
+      {
+        "item": "Infinity Edge",
+        "percentage": 56
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 55
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 55
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 55
+      }
+    ]
+  },
+  "lissandra": {
+    "champion": "lissandra",
+    "popular_items": [
+      {
+        "item": "Amplifying Tome",
+        "percentage": 52
+      },
+      {
+        "item": "Banshee's Veil",
+        "percentage": 52
+      },
+      {
+        "item": "Blackfire Torch",
+        "percentage": 52
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 52
+      },
+      {
+        "item": "Boots",
+        "percentage": 52
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 52
+      }
+    ]
+  },
+  "leona": {
+    "champion": "leona",
+    "popular_items": [
+      {
+        "item": "Abyssal Mask",
+        "percentage": 80
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 80
+      },
+      {
+        "item": "Boots",
+        "percentage": 80
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 80
+      },
+      {
+        "item": "Bramble Vest",
+        "percentage": 80
+      },
+      {
+        "item": "Celestial Opposition",
+        "percentage": 80
+      }
+    ]
+  },
+  "leesin": {
+    "champion": "leesin",
+    "popular_items": [
+      {
+        "item": "Sundered Sky",
+        "percentage": 81
+      },
+      {
+        "item": "Eclipse",
+        "percentage": 63
+      },
+      {
+        "item": "Mercury's Treads",
+        "percentage": 54
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 46
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 46
+      },
+      {
+        "item": "Caulfield's Warhammer",
+        "percentage": 46
+      }
+    ]
+  },
+  "leblanc": {
+    "champion": "leblanc",
+    "popular_items": [
+      {
+        "item": "Luden's Companion",
+        "percentage": 97
+      },
+      {
+        "item": "Sorcerer's Shoes",
+        "percentage": 79
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 51
+      },
+      {
+        "item": "Banshee's Veil",
+        "percentage": 51
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 51
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 51
+      }
+    ]
+  },
+  "ksante": {
+    "champion": "ksante",
+    "popular_items": [
+      {
+        "item": "Iceborn Gauntlet",
+        "percentage": 75
+      },
+      {
+        "item": "Aegis of the Legion",
+        "percentage": 57
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 57
+      },
+      {
+        "item": "Boots",
+        "percentage": 57
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 57
+      },
+      {
+        "item": "Bramble Vest",
+        "percentage": 57
+      }
+    ]
+  },
+  "kogmaw": {
+    "champion": "kogmaw",
+    "popular_items": [
+      {
+        "item": "Amplifying Tome",
+        "percentage": 59
+      },
+      {
+        "item": "Archangel's Staff",
+        "percentage": 59
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 59
+      },
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 59
+      },
+      {
+        "item": "Blade of The Ruined King",
+        "percentage": 59
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 59
+      }
+    ]
+  },
+  "kled": {
+    "champion": "kled",
+    "popular_items": [
+      {
+        "item": "Titanic Hydra",
+        "percentage": 95
+      },
+      {
+        "item": "Hullbreaker",
+        "percentage": 68
+      },
+      {
+        "item": "Plated Steelcaps",
+        "percentage": 55
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 53
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 53
+      },
+      {
+        "item": "Boots",
+        "percentage": 53
+      }
+    ]
+  },
+  "kindred": {
+    "champion": "kindred",
+    "popular_items": [
+      {
+        "item": "Trinity Force",
+        "percentage": 69
+      },
+      {
+        "item": "The Collector",
+        "percentage": 66
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 58
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 58
+      },
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 58
+      },
+      {
+        "item": "Bloodthirster",
+        "percentage": 58
+      }
+    ]
+  },
+  "khazix": {
+    "champion": "khazix",
+    "popular_items": [
+      {
+        "item": "Profane Hydra",
+        "percentage": 77
+      },
+      {
+        "item": "Axiom Arc",
+        "percentage": 48
+      },
+      {
+        "item": "Boots",
+        "percentage": 48
+      },
+      {
+        "item": "Caulfield's Warhammer",
+        "percentage": 48
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 48
+      },
+      {
+        "item": "Cloth Armor",
+        "percentage": 48
+      }
+    ]
+  },
+  "kennen": {
+    "champion": "kennen",
+    "popular_items": [
+      {
+        "item": "Sorcerer's Shoes",
+        "percentage": 77
+      },
+      {
+        "item": "Hextech Rocketbelt",
+        "percentage": 75
+      },
+      {
+        "item": "Shadowflame",
+        "percentage": 56
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 52
+      },
+      {
+        "item": "Banshee's Veil",
+        "percentage": 52
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 52
+      }
+    ]
+  },
+  "kayn": {
+    "champion": "kayn",
+    "popular_items": [
+      {
+        "item": "Axiom Arc",
+        "percentage": 62
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 62
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 62
+      },
+      {
+        "item": "Boots",
+        "percentage": 62
+      },
+      {
+        "item": "Crimson Lucidity",
+        "percentage": 62
+      },
+      {
+        "item": "Death's Dance",
+        "percentage": 62
+      }
+    ]
+  },
+  "kayle": {
+    "champion": "kayle",
+    "popular_items": [
+      {
+        "item": "Nashor's Tooth",
+        "percentage": 97
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 91
+      },
+      {
+        "item": "Rabadon's Deathcap",
+        "percentage": 79
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 55
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 55
+      },
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 55
+      }
+    ]
+  },
+  "katarina": {
+    "champion": "katarina",
+    "popular_items": [
+      {
+        "item": "Sorcerer's Shoes",
+        "percentage": 76
+      },
+      {
+        "item": "Lich Bane",
+        "percentage": 68
+      },
+      {
+        "item": "Shadowflame",
+        "percentage": 58
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 46
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 46
+      },
+      {
+        "item": "Blade of The Ruined King",
+        "percentage": 46
+      }
+    ]
+  },
+  "kassadin": {
+    "champion": "kassadin",
+    "popular_items": [
+      {
+        "item": "Archangel's Staff",
+        "percentage": 82
+      },
+      {
+        "item": "Rod of Ages",
+        "percentage": 66
+      },
+      {
+        "item": "Malignance",
+        "percentage": 62
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 48
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 48
+      },
+      {
+        "item": "Banshee's Veil",
+        "percentage": 48
+      }
+    ]
+  },
+  "karthus": {
+    "champion": "karthus",
+    "popular_items": [
+      {
+        "item": "Sorcerer's Shoes",
+        "percentage": 97
+      },
+      {
+        "item": "Blackfire Torch",
+        "percentage": 93
+      },
+      {
+        "item": "Shadowflame",
+        "percentage": 54
+      },
+      {
+        "item": "Liandry's Torment",
+        "percentage": 51
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 37
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 37
+      }
+    ]
+  },
+  "karma": {
+    "champion": "karma",
+    "popular_items": [
+      {
+        "item": "Ionian Boots of Lucidity",
+        "percentage": 95
+      },
+      {
+        "item": "Redemption",
+        "percentage": 69
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 67
+      },
+      {
+        "item": "Bandleglass Mirror",
+        "percentage": 67
+      },
+      {
+        "item": "Boots",
+        "percentage": 67
+      },
+      {
+        "item": "Celestial Opposition",
+        "percentage": 67
+      }
+    ]
+  },
+  "kalista": {
+    "champion": "kalista",
+    "popular_items": [
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 94
+      },
+      {
+        "item": "Blade of The Ruined King",
+        "percentage": 84
+      },
+      {
+        "item": "Guinsoo's Rageblade",
+        "percentage": 80
+      },
+      {
+        "item": "Terminus",
+        "percentage": 46
+      },
+      {
+        "item": "Cloth Armor",
+        "percentage": 43
+      },
+      {
+        "item": "Dagger",
+        "percentage": 43
+      }
+    ]
+  },
+  "kaisa": {
+    "champion": "kaisa",
+    "popular_items": [
+      {
+        "item": "Kraken Slayer",
+        "percentage": 100
+      },
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 92
+      },
+      {
+        "item": "Guinsoo's Rageblade",
+        "percentage": 86
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 58
+      },
+      {
+        "item": "Bloodthirster",
+        "percentage": 58
+      },
+      {
+        "item": "Chain Vest",
+        "percentage": 58
+      }
+    ]
+  },
+  "jinx": {
+    "champion": "jinx",
+    "popular_items": [
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 94
+      },
+      {
+        "item": "Infinity Edge",
+        "percentage": 63
+      },
+      {
+        "item": "Yun Tal Wildarrows",
+        "percentage": 61
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 52
+      },
+      {
+        "item": "Bloodthirster",
+        "percentage": 52
+      },
+      {
+        "item": "Boots",
+        "percentage": 52
+      }
+    ]
+  },
+  "jhin": {
+    "champion": "jhin",
+    "popular_items": [
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 83
+      },
+      {
+        "item": "Youmuu's Ghostblade",
+        "percentage": 69
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 57
+      },
+      {
+        "item": "Bloodthirster",
+        "percentage": 57
+      },
+      {
+        "item": "Boots",
+        "percentage": 57
+      },
+      {
+        "item": "Cloak of Agility",
+        "percentage": 57
+      }
+    ]
+  },
+  "jayce": {
+    "champion": "jayce",
+    "popular_items": [
+      {
+        "item": "Youmuu's Ghostblade",
+        "percentage": 80
+      },
+      {
+        "item": "Manamune",
+        "percentage": 61
+      },
+      {
+        "item": "Ionian Boots of Lucidity",
+        "percentage": 56
+      },
+      {
+        "item": "Serylda's Grudge",
+        "percentage": 51
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 38
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 38
+      }
+    ]
+  },
+  "jax": {
+    "champion": "jax",
+    "popular_items": [
+      {
+        "item": "Trinity Force",
+        "percentage": 90
+      },
+      {
+        "item": "Sundered Sky",
+        "percentage": 64
+      },
+      {
+        "item": "Abyssal Mask",
+        "percentage": 50
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 50
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 50
+      },
+      {
+        "item": "Boots",
+        "percentage": 50
+      }
+    ]
+  },
+  "jarvaniv": {
+    "champion": "jarvaniv",
+    "popular_items": [
+      {
+        "item": "Sundered Sky",
+        "percentage": 84
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 69
+      },
+      {
+        "item": "Axiom Arc",
+        "percentage": 69
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 69
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 69
+      },
+      {
+        "item": "Caulfield's Warhammer",
+        "percentage": 69
+      }
+    ]
+  },
+  "janna": {
+    "champion": "janna",
+    "popular_items": [
+      {
+        "item": "Redemption",
+        "percentage": 64
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 59
+      },
+      {
+        "item": "Ardent Censer",
+        "percentage": 59
+      },
+      {
+        "item": "Bandleglass Mirror",
+        "percentage": 59
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 59
+      },
+      {
+        "item": "Celestial Opposition",
+        "percentage": 59
+      }
+    ]
+  },
+  "ivern": {
+    "champion": "ivern",
+    "popular_items": [
+      {
+        "item": "Ionian Boots of Lucidity",
+        "percentage": 99
+      },
+      {
+        "item": "Redemption",
+        "percentage": 80
+      },
+      {
+        "item": "Moonstone Renewer",
+        "percentage": 59
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 57
+      },
+      {
+        "item": "Bandleglass Mirror",
+        "percentage": 57
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 57
+      }
+    ]
+  },
+  "irelia": {
+    "champion": "irelia",
+    "popular_items": [
+      {
+        "item": "Blade of The Ruined King",
+        "percentage": 99
+      },
+      {
+        "item": "Hullbreaker",
+        "percentage": 76
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 64
+      },
+      {
+        "item": "Boots",
+        "percentage": 64
+      },
+      {
+        "item": "Caulfield's Warhammer",
+        "percentage": 64
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 64
+      }
+    ]
+  },
+  "illaoi": {
+    "champion": "illaoi",
+    "popular_items": [
+      {
+        "item": "Black Cleaver",
+        "percentage": 54
+      },
+      {
+        "item": "Sterak's Gage",
+        "percentage": 51
+      },
+      {
+        "item": "Sundered Sky",
+        "percentage": 48
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 47
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 47
+      },
+      {
+        "item": "Caulfield's Warhammer",
+        "percentage": 47
+      }
+    ]
+  },
+  "hwei": {
+    "champion": "hwei",
+    "popular_items": [
+      {
+        "item": "Blackfire Torch",
+        "percentage": 68
+      },
+      {
+        "item": "Ionian Boots of Lucidity",
+        "percentage": 68
+      },
+      {
+        "item": "Horizon Focus",
+        "percentage": 48
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 46
+      },
+      {
+        "item": "Archangel's Staff",
+        "percentage": 46
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 46
+      }
+    ]
+  },
+  "heimerdinger": {
+    "champion": "heimerdinger",
+    "popular_items": [
+      {
+        "item": "Sorcerer's Shoes",
+        "percentage": 62
+      },
+      {
+        "item": "Blackfire Torch",
+        "percentage": 58
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 50
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 50
+      },
+      {
+        "item": "Boots",
+        "percentage": 50
+      },
+      {
+        "item": "Celestial Opposition",
+        "percentage": 50
+      }
+    ]
+  },
+  "hecarim": {
+    "champion": "hecarim",
+    "popular_items": [
+      {
+        "item": "Ionian Boots of Lucidity",
+        "percentage": 80
+      },
+      {
+        "item": "Spear of Shojin",
+        "percentage": 74
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 66
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 52
+      },
+      {
+        "item": "Caulfield's Warhammer",
+        "percentage": 52
+      },
+      {
+        "item": "Cloth Armor",
+        "percentage": 52
+      }
+    ]
+  },
+  "gwen": {
+    "champion": "gwen",
+    "popular_items": [
+      {
+        "item": "Nashor's Tooth",
+        "percentage": 80
+      },
+      {
+        "item": "Riftmaker",
+        "percentage": 77
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 53
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 53
+      },
+      {
+        "item": "Banshee's Veil",
+        "percentage": 53
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 53
+      }
+    ]
+  },
+  "graves": {
+    "champion": "graves",
+    "popular_items": [
+      {
+        "item": "Youmuu's Ghostblade",
+        "percentage": 60
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 54
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 54
+      },
+      {
+        "item": "Boots",
+        "percentage": 54
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 54
+      },
+      {
+        "item": "Cloak of Agility",
+        "percentage": 54
+      }
+    ]
+  },
+  "gragas": {
+    "champion": "gragas",
+    "popular_items": [
+      {
+        "item": "Ionian Boots of Lucidity",
+        "percentage": 70
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 50
+      },
+      {
+        "item": "Banshee's Veil",
+        "percentage": 50
+      },
+      {
+        "item": "Blackfire Torch",
+        "percentage": 50
+      },
+      {
+        "item": "Boots",
+        "percentage": 50
+      },
+      {
+        "item": "Celestial Opposition",
+        "percentage": 50
+      }
+    ]
+  },
+  "gnar": {
+    "champion": "gnar",
+    "popular_items": [
+      {
+        "item": "Trinity Force",
+        "percentage": 94
+      },
+      {
+        "item": "Plated Steelcaps",
+        "percentage": 71
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 54
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 54
+      },
+      {
+        "item": "Boots",
+        "percentage": 54
+      },
+      {
+        "item": "Cloth Armor",
+        "percentage": 54
+      }
+    ]
+  },
+  "garen": {
+    "champion": "garen",
+    "popular_items": [
+      {
+        "item": "Stridebreaker",
+        "percentage": 97
+      },
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 68
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 68
+      },
+      {
+        "item": "Boots",
+        "percentage": 68
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 68
+      },
+      {
+        "item": "Chain Vest",
+        "percentage": 68
+      }
+    ]
+  },
+  "gangplank": {
+    "champion": "gangplank",
+    "popular_items": [
+      {
+        "item": "Trinity Force",
+        "percentage": 100
+      },
+      {
+        "item": "The Collector",
+        "percentage": 63
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 55
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 55
+      },
+      {
+        "item": "Boots",
+        "percentage": 55
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 55
+      }
+    ]
+  },
+  "galio": {
+    "champion": "galio",
+    "popular_items": [
+      {
+        "item": "Hollow Radiance",
+        "percentage": 66
+      },
+      {
+        "item": "Riftmaker",
+        "percentage": 60
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 47
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 47
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 47
+      },
+      {
+        "item": "Dark Seal",
+        "percentage": 47
+      }
+    ]
+  },
+  "fizz": {
+    "champion": "fizz",
+    "popular_items": [
+      {
+        "item": "Lich Bane",
+        "percentage": 78
+      },
+      {
+        "item": "Ionian Boots of Lucidity",
+        "percentage": 69
+      },
+      {
+        "item": "Zhonya's Hourglass",
+        "percentage": 69
+      },
+      {
+        "item": "Abyssal Mask",
+        "percentage": 66
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 66
+      },
+      {
+        "item": "Blackfire Torch",
+        "percentage": 66
+      }
+    ]
+  },
+  "fiora": {
+    "champion": "fiora",
+    "popular_items": [
+      {
+        "item": "Ravenous Hydra",
+        "percentage": 99
+      },
+      {
+        "item": "Trinity Force",
+        "percentage": 77
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 56
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 56
+      },
+      {
+        "item": "Boots",
+        "percentage": 56
+      },
+      {
+        "item": "Caulfield's Warhammer",
+        "percentage": 56
+      }
+    ]
+  },
+  "fiddlesticks": {
+    "champion": "fiddlesticks",
+    "popular_items": [
+      {
+        "item": "Sorcerer's Shoes",
+        "percentage": 57
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 52
+      },
+      {
+        "item": "Banshee's Veil",
+        "percentage": 52
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 52
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 52
+      },
+      {
+        "item": "Celestial Opposition",
+        "percentage": 52
+      }
+    ]
+  },
+  "ezreal": {
+    "champion": "ezreal",
+    "popular_items": [
+      {
+        "item": "Trinity Force",
+        "percentage": 100
+      },
+      {
+        "item": "Manamune",
+        "percentage": 83
+      },
+      {
+        "item": "Ionian Boots of Lucidity",
+        "percentage": 82
+      },
+      {
+        "item": "Bloodthirster",
+        "percentage": 56
+      },
+      {
+        "item": "Boots",
+        "percentage": 56
+      },
+      {
+        "item": "Caulfield's Warhammer",
+        "percentage": 56
+      }
+    ]
+  },
+  "evelynn": {
+    "champion": "evelynn",
+    "popular_items": [
+      {
+        "item": "Lich Bane",
+        "percentage": 89
+      },
+      {
+        "item": "Sorcerer's Shoes",
+        "percentage": 86
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 56
+      },
+      {
+        "item": "Banshee's Veil",
+        "percentage": 56
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 56
+      },
+      {
+        "item": "Boots",
+        "percentage": 56
+      }
+    ]
+  },
+  "elise": {
+    "champion": "elise",
+    "popular_items": [
+      {
+        "item": "Sorcerer's Shoes",
+        "percentage": 84
+      },
+      {
+        "item": "Stormsurge",
+        "percentage": 53
+      },
+      {
+        "item": "Hextech Rocketbelt",
+        "percentage": 48
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 40
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 40
+      },
+      {
+        "item": "Banshee's Veil",
+        "percentage": 40
+      }
+    ]
+  },
+  "ekko": {
+    "champion": "ekko",
+    "popular_items": [
+      {
+        "item": "Lich Bane",
+        "percentage": 88
+      },
+      {
+        "item": "Sorcerer's Shoes",
+        "percentage": 73
+      },
+      {
+        "item": "Hextech Rocketbelt",
+        "percentage": 67
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 48
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 48
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 48
+      }
+    ]
+  },
+  "drmundo": {
+    "champion": "drmundo",
+    "popular_items": [
+      {
+        "item": "Heartsteel",
+        "percentage": 97
+      },
+      {
+        "item": "Aegis of the Legion",
+        "percentage": 55
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 55
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 55
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 55
+      },
+      {
+        "item": "Bramble Vest",
+        "percentage": 55
+      }
+    ]
+  },
+  "draven": {
+    "champion": "draven",
+    "popular_items": [
+      {
+        "item": "Bloodthirster",
+        "percentage": 76
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 47
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 47
+      },
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 47
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 47
+      },
+      {
+        "item": "Cloak of Agility",
+        "percentage": 47
+      }
+    ]
+  },
+  "diana": {
+    "champion": "diana",
+    "popular_items": [
+      {
+        "item": "Hextech Rocketbelt",
+        "percentage": 83
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 57
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 57
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 57
+      },
+      {
+        "item": "Bloodletter's Curse",
+        "percentage": 57
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 57
+      }
+    ]
+  },
+  "darius": {
+    "champion": "darius",
+    "popular_items": [
+      {
+        "item": "Stridebreaker",
+        "percentage": 65
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 61
+      },
+      {
+        "item": "Boots",
+        "percentage": 61
+      },
+      {
+        "item": "Caulfield's Warhammer",
+        "percentage": 61
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 61
+      },
+      {
+        "item": "Cloth Armor",
+        "percentage": 61
+      }
+    ]
+  },
+  "corki": {
+    "champion": "corki",
+    "popular_items": [
+      {
+        "item": "Trinity Force",
+        "percentage": 100
+      },
+      {
+        "item": "Manamune",
+        "percentage": 91
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 62
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 62
+      },
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 62
+      },
+      {
+        "item": "Boots",
+        "percentage": 62
+      }
+    ]
+  },
+  "chogath": {
+    "champion": "chogath",
+    "popular_items": [
+      {
+        "item": "Hextech Rocketbelt",
+        "percentage": 66
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 52
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 52
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 52
+      },
+      {
+        "item": "Chain Vest",
+        "percentage": 52
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 52
+      }
+    ]
+  },
+  "cassiopeia": {
+    "champion": "cassiopeia",
+    "popular_items": [
+      {
+        "item": "Rod of Ages",
+        "percentage": 88
+      },
+      {
+        "item": "Archangel's Staff",
+        "percentage": 87
+      },
+      {
+        "item": "Rylai's Crystal Scepter",
+        "percentage": 59
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 37
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 37
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 37
+      }
+    ]
+  },
+  "camille": {
+    "champion": "camille",
+    "popular_items": [
+      {
+        "item": "Trinity Force",
+        "percentage": 88
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 66
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 66
+      },
+      {
+        "item": "Boots",
+        "percentage": 66
+      },
+      {
+        "item": "Caulfield's Warhammer",
+        "percentage": 66
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 66
+      }
+    ]
+  },
+  "caitlyn": {
+    "champion": "caitlyn",
+    "popular_items": [
+      {
+        "item": "Infinity Edge",
+        "percentage": 84
+      },
+      {
+        "item": "The Collector",
+        "percentage": 83
+      },
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 81
+      },
+      {
+        "item": "Rapid Firecannon",
+        "percentage": 48
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 43
+      },
+      {
+        "item": "Bloodthirster",
+        "percentage": 43
+      }
+    ]
+  },
+  "briar": {
+    "champion": "briar",
+    "popular_items": [
+      {
+        "item": "Titanic Hydra",
+        "percentage": 86
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 75
+      },
+      {
+        "item": "Plated Steelcaps",
+        "percentage": 57
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 53
+      },
+      {
+        "item": "Blade of The Ruined King",
+        "percentage": 53
+      },
+      {
+        "item": "Boots",
+        "percentage": 53
+      }
+    ]
+  },
+  "braum": {
+    "champion": "braum",
+    "popular_items": [
+      {
+        "item": "Redemption",
+        "percentage": 74
+      },
+      {
+        "item": "Locket of the Iron Solari",
+        "percentage": 63
+      },
+      {
+        "item": "Plated Steelcaps",
+        "percentage": 45
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 38
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 38
+      },
+      {
+        "item": "Celestial Opposition",
+        "percentage": 38
+      }
+    ]
+  },
+  "brand": {
+    "champion": "brand",
+    "popular_items": [
+      {
+        "item": "Liandry's Torment",
+        "percentage": 89
+      },
+      {
+        "item": "Rylai's Crystal Scepter",
+        "percentage": 77
+      },
+      {
+        "item": "Sorcerer's Shoes",
+        "percentage": 66
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 47
+      },
+      {
+        "item": "Blackfire Torch",
+        "percentage": 47
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 47
+      }
+    ]
+  },
+  "blitzcrank": {
+    "champion": "blitzcrank",
+    "popular_items": [
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 71
+      },
+      {
+        "item": "Redemption",
+        "percentage": 63
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 47
+      },
+      {
+        "item": "Catalyst of Aeons",
+        "percentage": 47
+      },
+      {
+        "item": "Celestial Opposition",
+        "percentage": 47
+      },
+      {
+        "item": "Cloth Armor",
+        "percentage": 47
+      }
+    ]
+  },
+  "belveth": {
+    "champion": "belveth",
+    "popular_items": [
+      {
+        "item": "Kraken Slayer",
+        "percentage": 91
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 60
+      },
+      {
+        "item": "Blade of The Ruined King",
+        "percentage": 60
+      },
+      {
+        "item": "Cloth Armor",
+        "percentage": 60
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 60
+      },
+      {
+        "item": "Dagger",
+        "percentage": 60
+      }
+    ]
+  },
+  "bard": {
+    "champion": "bard",
+    "popular_items": [
+      {
+        "item": "Amplifying Tome",
+        "percentage": 55
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 55
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 55
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 55
+      },
+      {
+        "item": "Celestial Opposition",
+        "percentage": 55
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 55
+      }
+    ]
+  },
+  "azir": {
+    "champion": "azir",
+    "popular_items": [
+      {
+        "item": "Nashor's Tooth",
+        "percentage": 100
+      },
+      {
+        "item": "Sorcerer's Shoes",
+        "percentage": 66
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 55
+      },
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 55
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 55
+      },
+      {
+        "item": "Boots",
+        "percentage": 55
+      }
+    ]
+  },
+  "aurora": {
+    "champion": "aurora",
+    "popular_items": [
+      {
+        "item": "Sorcerer's Shoes",
+        "percentage": 61
+      },
+      {
+        "item": "Liandry's Torment",
+        "percentage": 48
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 46
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 46
+      },
+      {
+        "item": "Banshee's Veil",
+        "percentage": 46
+      },
+      {
+        "item": "Blackfire Torch",
+        "percentage": 46
+      }
+    ]
+  },
+  "aurelionsol": {
+    "champion": "aurelionsol",
+    "popular_items": [
+      {
+        "item": "Rylai's Crystal Scepter",
+        "percentage": 89
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 66
+      },
+      {
+        "item": "Banshee's Veil",
+        "percentage": 66
+      },
+      {
+        "item": "Blackfire Torch",
+        "percentage": 66
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 66
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 66
+      }
+    ]
+  },
+  "ashe": {
+    "champion": "ashe",
+    "popular_items": [
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 92
+      },
+      {
+        "item": "Phantom Dancer",
+        "percentage": 76
+      },
+      {
+        "item": "Kraken Slayer",
+        "percentage": 75
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 65
+      },
+      {
+        "item": "Bloodthirster",
+        "percentage": 65
+      },
+      {
+        "item": "Caulfield's Warhammer",
+        "percentage": 65
+      }
+    ]
+  },
+  "aphelios": {
+    "champion": "aphelios",
+    "popular_items": [
+      {
+        "item": "The Collector",
+        "percentage": 88
+      },
+      {
+        "item": "Infinity Edge",
+        "percentage": 78
+      },
+      {
+        "item": "Berserker's Greaves",
+        "percentage": 72
+      },
+      {
+        "item": "Axiom Arc",
+        "percentage": 59
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 59
+      },
+      {
+        "item": "Boots",
+        "percentage": 59
+      }
+    ]
+  },
+  "annie": {
+    "champion": "annie",
+    "popular_items": [
+      {
+        "item": "Malignance",
+        "percentage": 95
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 60
+      },
+      {
+        "item": "Bloodletter's Curse",
+        "percentage": 60
+      },
+      {
+        "item": "Control Ward",
+        "percentage": 60
+      },
+      {
+        "item": "Crimson Lucidity",
+        "percentage": 60
+      },
+      {
+        "item": "Dark Seal",
+        "percentage": 60
+      }
+    ]
+  },
+  "anivia": {
+    "champion": "anivia",
+    "popular_items": [
+      {
+        "item": "Rod of Ages",
+        "percentage": 85
+      },
+      {
+        "item": "Archangel's Staff",
+        "percentage": 53
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 48
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 48
+      },
+      {
+        "item": "Bloodletter's Curse",
+        "percentage": 48
+      },
+      {
+        "item": "Boots",
+        "percentage": 48
+      }
+    ]
+  },
+  "amumu": {
+    "champion": "amumu",
+    "popular_items": [
+      {
+        "item": "Abyssal Mask",
+        "percentage": 43
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 43
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 43
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 43
+      },
+      {
+        "item": "Bandleglass Mirror",
+        "percentage": 43
+      },
+      {
+        "item": "Bloodsong",
+        "percentage": 43
+      }
+    ]
+  },
+  "ambessa": {
+    "champion": "ambessa",
+    "popular_items": [
+      {
+        "item": "Eclipse",
+        "percentage": 83
+      },
+      {
+        "item": "Spear of Shojin",
+        "percentage": 61
+      },
+      {
+        "item": "Black Cleaver",
+        "percentage": 53
+      },
+      {
+        "item": "Boots",
+        "percentage": 53
+      },
+      {
+        "item": "Caulfield's Warhammer",
+        "percentage": 53
+      },
+      {
+        "item": "Chainlaced Crushers",
+        "percentage": 53
+      }
+    ]
+  },
+  "alistar": {
+    "champion": "alistar",
+    "popular_items": [
+      {
+        "item": "Redemption",
+        "percentage": 87
+      },
+      {
+        "item": "Armored Advance",
+        "percentage": 50
+      },
+      {
+        "item": "Boots",
+        "percentage": 50
+      },
+      {
+        "item": "Boots of Swiftness",
+        "percentage": 50
+      },
+      {
+        "item": "Bramble Vest",
+        "percentage": 50
+      },
+      {
+        "item": "Celestial Opposition",
+        "percentage": 50
+      }
+    ]
+  },
+  "akshan": {
+    "champion": "akshan",
+    "popular_items": [
+      {
+        "item": "Statikk Shiv",
+        "percentage": 77
+      },
+      {
+        "item": "Symbiotic Soles",
+        "percentage": 67
+      },
+      {
+        "item": "The Collector",
+        "percentage": 67
+      },
+      {
+        "item": "Lord Dominik's Regards",
+        "percentage": 53
+      },
+      {
+        "item": "B. F. Sword",
+        "percentage": 51
+      },
+      {
+        "item": "Bloodthirster",
+        "percentage": 51
+      }
+    ]
+  },
+  "akali": {
+    "champion": "akali",
+    "popular_items": [
+      {
+        "item": "Sorcerer's Shoes",
+        "percentage": 77
+      },
+      {
+        "item": "Hextech Rocketbelt",
+        "percentage": 73
+      },
+      {
+        "item": "Shadowflame",
+        "percentage": 65
+      },
+      {
+        "item": "Aether Wisp",
+        "percentage": 56
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 56
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 56
+      }
+    ]
+  },
+  "ahri": {
+    "champion": "ahri",
+    "popular_items": [
+      {
+        "item": "Malignance",
+        "percentage": 61
+      },
+      {
+        "item": "Ionian Boots of Lucidity",
+        "percentage": 58
+      },
+      {
+        "item": "Amplifying Tome",
+        "percentage": 55
+      },
+      {
+        "item": "Blackfire Torch",
+        "percentage": 55
+      },
+      {
+        "item": "Blasting Wand",
+        "percentage": 55
+      },
+      {
+        "item": "Blighting Jewel",
+        "percentage": 55
+      }
+    ]
+  }
+}
